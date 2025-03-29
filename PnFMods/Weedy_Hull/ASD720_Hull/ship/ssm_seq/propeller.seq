@@ -1,0 +1,114 @@
+<propeller.seq>
+	<duration>	30.000	</duration>
+	<sequenceObject>
+		<name>	Root	</name>
+		<type>	model	</type>
+		<editorOnly>
+			<activated>	true	</activated>
+			<solo>	false	</solo>
+		</editorOnly>
+		<resource />
+		<track />
+	</sequenceObject>
+	<sequenceObject>
+		<name>	propeller_L	</name>
+		<type>	model	</type>
+		<editorOnly>
+			<activated>	true	</activated>
+			<solo>	false	</solo>
+		</editorOnly>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/ship/model/propeller.model	</resource>
+		<track>
+			<name>	position	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	0.1900 -0.15219 -3.5696	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>
+			<name>	rotationEuler	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value> 0.0000 180.0000 0.0000	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>
+			<name>	scale	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	1.0000 1.0000 1.0000	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>			
+			<name>	visibility	</name>	
+			<type>	bool	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	true	</value>
+			</frame>
+		</track>
+	</sequenceObject>
+	<sequenceObject>
+		<name>	propeller_R	</name>
+		<type>	model	</type>
+		<editorOnly>
+			<activated>	true	</activated>
+			<solo>	false	</solo>
+		</editorOnly>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/ship/model/propeller.model	</resource>
+		<track>
+			<name>	position	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	-0.1900 -0.15219 -3.5696	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>
+			<name>	rotationEuler	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value> 0.0000 180.0000 0.0000	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>
+			<name>	scale	</name>
+			<type>	vector3	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	1.0000 1.0000 1.0000	</value>
+				<inTangent>	0.0000 0.0000 0.0000	</inTangent>
+				<outTangent>	0.0000 0.0000 0.0000	</outTangent>
+				<tangentMode>	0	</tangentMode>
+			</frame>
+		</track>
+		<track>			
+			<name>	visibility	</name>	
+			<type>	bool	</type>
+			<frame>
+				<startTime>	0.0000	</startTime>
+				<value>	true	</value>
+			</frame>
+		</track>
+	</sequenceObject>
+    <events />
+</propeller.seq>

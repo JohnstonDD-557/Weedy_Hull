@@ -1,0 +1,52 @@
+<propeller.visual>
+	<skeleton>
+		<node>
+			<identifier>Scene Root</identifier>
+			<transform>
+				<row0>1.000000 0.000000 0.000000</row0>
+				<row1>0.000000 1.000000 0.000000</row1>
+				<row2>0.000000 0.000000 1.000000</row2>
+				<row3>0.000000 0.000000 0.000000</row3>
+			</transform>
+			<node>
+				<identifier>propeller</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>false</underwaterModel>
+		<abovewaterModel>true</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>-0.116864 -0.187580 -0.069623</min>
+		<max>0.114837 0.145844 0.621468</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>propellerShape</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>propeller</node>
+			</nodes>
+			<material>
+				<identifier>propellerShape</identifier>
+				<mfm>PnFMods/Weedy_Hull/ASD720_Hull/ship/model/propeller.mfm</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>2000</extent>
+			<castsShadow>true</castsShadow>
+			<renderSets>
+				<renderSet>propellerShape</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
+</propeller.visual>
