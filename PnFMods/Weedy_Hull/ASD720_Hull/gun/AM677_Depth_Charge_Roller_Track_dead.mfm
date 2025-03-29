@@ -1,0 +1,16 @@
+<AM677_Depth_Charge_Roller_Track_dead.mfm>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AM677_Depth_Charge_Roller_Track_dead_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AM677_Depth_Charge_Roller_Track_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AM677_Depth_Charge_Roller_Track_n.dds	</Texture>
+	</property>
+</AM677_Depth_Charge_Roller_Track_dead.mfm>

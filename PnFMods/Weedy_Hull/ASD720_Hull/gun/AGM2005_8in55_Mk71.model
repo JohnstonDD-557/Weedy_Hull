@@ -1,0 +1,8 @@
+<AGM2005_8in55_Mk71.model>
+	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AGM2005_8in55_Mk71.visual	</visual>
+	<animations>         
+        <animation> PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao.ssm  </animation>
+    </animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
+</AGM2005_8in55_Mk71.model>

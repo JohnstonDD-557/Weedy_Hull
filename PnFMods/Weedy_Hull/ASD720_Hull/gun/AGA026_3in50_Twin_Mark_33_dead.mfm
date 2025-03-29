@@ -1,0 +1,19 @@
+<AGA026_3in50_Twin_Mark_33_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.0	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AGA026_3in50_Twin_Mark_33_dead_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AGA026_3in50_Twin_Mark_33_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/AGA026_3in50_Twin_Mark_33_n.dds	</Texture>
+	</property>
+</AGA026_3in50_Twin_Mark_33_dead.mfm>
