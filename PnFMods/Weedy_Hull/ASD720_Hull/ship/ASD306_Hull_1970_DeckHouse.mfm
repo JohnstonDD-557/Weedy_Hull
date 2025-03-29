@@ -1,0 +1,20 @@
+<ASD306_Hull_1970_DeckHouse.mfm>
+	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
+	<property>	emissivePower
+	<Float>	2	</Float>
+	</property>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_DeckHouse_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_DeckHouse_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_DeckHouse_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_DeckHouse_n.dds	</Texture>
+	</property>
+</ASD306_Hull_1970_DeckHouse.mfm>

@@ -1,0 +1,50 @@
+<ASD306_Hull_1970.mfm>
+	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
+	<property>	emissivePower
+	<Float>	2	</Float>
+	</property>
+	<property>	emissionAnimationMode
+		<Int>	3	</Int>
+	</property>	
+	<property>	emissionColorMode
+		<Int>	1	</Int>
+	</property>
+	<property>	animEmissionPower
+		<Float>	3.00000	</Float>
+	</property>
+	<property>	animScale
+		<Vector4>	1	1	1	1	</Vector4>
+	</property>
+	<property>	maskColor1
+		<Vector4>	0	0	0	1	</Vector4>
+	</property>
+	<property>	maskColor2
+		<Vector4>	0.5	0.6	0	1	</Vector4>
+	</property>
+	<property>	maskSpeed
+		<Vector4>	0.1	0	1	0	</Vector4>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	false	</Bool>
+	</property>
+    <materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_ao.dds	</Texture>
+	</property>
+	<property>	animMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_anim.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_n.dds	</Texture>
+	</property>
+</ASD306_Hull_1970.mfm>
