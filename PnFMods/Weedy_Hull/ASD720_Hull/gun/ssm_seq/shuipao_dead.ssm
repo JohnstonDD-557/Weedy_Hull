@@ -1,0 +1,70 @@
+<light.ssm>
+	<params>
+		<param>
+			<name>	no_action	</name>
+			<type>	trigger	</type>
+		</param>
+		<param>
+			<name>	idle	</name>
+			<type>	trigger	</type>
+		</param>
+	</params>
+	<node>
+		<name>	no_action	</name>
+		<type>	sequence	</type>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao.seq	</resource>
+		<isLoop>	true	</isLoop>
+		<loop>	-1 </loop>
+		<transition>
+			<to>	no_action	</to>
+			<blendDuration>	0.0000	</blendDuration>
+			<allowRootMotion>	false	</allowRootMotion>
+			<conditions>
+				<condition>
+					<type>	trigger	</type>
+					<name>	no_action	</name>
+				</condition>
+			</conditions>
+		</transition>
+		<transition>
+			<to>	Light	</to>
+			<blendDuration>	0.0000	</blendDuration>
+			<allowRootMotion>	false	</allowRootMotion>
+			<conditions>
+				<condition>
+					<type>	trigger	</type>
+					<name>	idle	</name>
+				</condition>
+			</conditions>
+		</transition>
+	</node>
+	<node>
+		<name>	Light	</name>
+		<type>	sequence	</type>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao.seq	</resource>
+		<isLoop>	true	</isLoop>
+		<loop>	-1 </loop>
+		<transition>
+			<to>	no_action	</to>
+			<blendDuration>	0.3000	</blendDuration>
+			<allowRootMotion>	false	</allowRootMotion>
+			<conditions>
+				<condition>
+					<type>	trigger	</type>
+					<name>	no_action	</name>
+				</condition>
+			</conditions>
+		</transition>
+		<transition>
+			<to>	Light	</to>
+			<blendDuration>	0.3000	</blendDuration>
+			<allowRootMotion>	false	</allowRootMotion>
+			<conditions>
+				<condition>
+					<type>	trigger	</type>
+					<name>	idle	</name>
+				</condition>
+			</conditions>
+		</transition>
+	</node>
+</light.ssm>

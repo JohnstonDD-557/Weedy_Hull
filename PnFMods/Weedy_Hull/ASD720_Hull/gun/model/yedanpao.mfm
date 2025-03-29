@@ -1,0 +1,20 @@
+<yedanpao.mfm>
+	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
+    <property>	emissivePower
+		<Float>	3.5	</Float>
+	</property>
+    <materialKind>	0	</materialKind>
+    <collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/yedanpao_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/yedanpao_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/yedanpao_n.dds	</Texture>
+	</property>
+</yedanpao.mfm>

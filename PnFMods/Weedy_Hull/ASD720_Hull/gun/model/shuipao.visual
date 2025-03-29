@@ -1,0 +1,52 @@
+<shuipao.visual>
+	<skeleton>
+		<node>
+			<identifier>Scene Root</identifier>
+			<transform>
+				<row0>1.000000 0.000000 0.000000</row0>
+				<row1>0.000000 1.000000 0.000000</row1>
+				<row2>0.000000 0.000000 1.000000</row2>
+				<row3>0.000000 0.000000 0.000000</row3>
+			</transform>
+			<node>
+				<identifier>shuipao</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>false</underwaterModel>
+		<abovewaterModel>true</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>-0.032760 -0.054056 -0.626856</min>
+		<max>0.032887 0.046185 0.032677</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>shuipaoShape</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>shuipao</node>
+			</nodes>
+			<material>
+				<identifier>shuipaoShape</identifier>
+				<mfm>PnFMods/Weedy_Hull/ASD720_Hull/gun/model/shuipao.mfm</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>2000</extent>
+			<castsShadow>true</castsShadow>
+			<renderSets>
+				<renderSet>shuipaoShape</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
+</shuipao.visual>
