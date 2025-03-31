@@ -22,4 +22,6 @@ Open the " World_of_Warships\bin\ 'maxnumber' \res_mods\PnFMods "
 Delete the folder called 'Weedy_Hull' 
 
 # Update
-It's available in 14.2.
+2025/03/29 It's available in 14.2.
+
+2025/03/31 Found a question about causing a error when the torpeto tube broken. (fixing)
