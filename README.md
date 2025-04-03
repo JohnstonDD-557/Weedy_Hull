@@ -29,6 +29,7 @@ Delete the folder called 'Weedy_Hull'
 
 2025/03/31 Found a question about causing an error when the torpeto tube dead. (fixed)
 
+2025/04/03 It's available in 14.3.
 ---
 
 # 简介
@@ -56,4 +57,6 @@ Delete the folder called 'Weedy_Hull'
 2025/03/29 在14.2下可正常使用
 
 2025/03/31 发现了鱼雷管黑掉的情况下游戏会崩溃的问题(已修复)
+
+2025/04/03 在14.3下可正常使用
 
