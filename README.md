@@ -30,6 +30,9 @@ Delete the folder called 'Weedy_Hull'
 2025/03/31 Found a question about causing an error when the torpeto tube dead. (fixed)
 
 2025/04/03 It's available in 14.3.
+
+2025/04/06 Added a bit small details.
+
 ---
 
 # 简介
@@ -60,3 +63,4 @@ Delete the folder called 'Weedy_Hull'
 
 2025/04/03 在14.3下可正常使用
 
+2025/04/06 添加了一点小细节
