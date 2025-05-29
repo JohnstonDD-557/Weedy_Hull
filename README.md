@@ -33,6 +33,10 @@ Delete the folder called 'Weedy_Hull'
 
 2025/04/06 Added a bit small details.
 
+2025/05/15 It's available in 14.4. 
+
+2025/05/29 Add some minor details.
+
 ---
 
 # 简介
@@ -64,3 +68,7 @@ Delete the folder called 'Weedy_Hull'
 2025/04/03 在14.3下可正常使用
 
 2025/04/06 添加了一点小细节
+
+2025/05/15 在14.4版本可正常使用
+
+2025/05/29 为上层增加了一些细节
