@@ -37,6 +37,8 @@ Delete the folder called 'Weedy_Hull'
 
 2025/05/29 Add some minor details.
 
+2025/06/21 It's available in 14.4. Add some misc and deitals.
+
 ---
 
 # 简介
@@ -72,3 +74,13 @@ Delete the folder called 'Weedy_Hull'
 2025/05/15 在14.4版本可正常使用
 
 2025/05/29 为上层增加了一些细节
+
+2025/06/21 在14.5版本可正常使用,增加了一些小部件与细节
+
+# preview/预览图片
+<details>
+    <summary>避免一开始就加载一大堆图片,折叠一下 / Incase for loading too much picture when just open</summary>
+    
+![舰首](./Image/preview_mk4_1.png)
+![舰艉](./Image/preview_mk4_2.png)
+</details>
