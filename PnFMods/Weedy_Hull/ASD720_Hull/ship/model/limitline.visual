@@ -1,0 +1,52 @@
+<limitline.visual>
+	<skeleton>
+		<node>
+			<identifier>Scene Root</identifier>
+			<transform>
+				<row0>1.000000 0.000000 0.000000</row0>
+				<row1>0.000000 1.000000 0.000000</row1>
+				<row2>0.000000 0.000000 1.000000</row2>
+				<row3>0.000000 0.000000 0.000000</row3>
+			</transform>
+			<node>
+				<identifier>LimitLine</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>false</underwaterModel>
+		<abovewaterModel>true</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>-0.356815 0.213695 -2.287459</min>
+		<max>0.356271 0.362103 2.542789</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>LimitLineShape</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>LimitLine</node>
+			</nodes>
+			<material>
+				<identifier>LimitLineShape</identifier>
+				<mfm>PnFMods/Weedy_Hull/ASD720_Hull/ship/model/limitline.mfm</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>2000</extent>
+			<castsShadow>true</castsShadow>
+			<renderSets>
+				<renderSet>LimitLineShape</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
+</limitline.visual>
