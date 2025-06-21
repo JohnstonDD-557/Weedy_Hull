@@ -37,7 +37,7 @@ Delete the folder called 'Weedy_Hull'
 
 2025/05/29 Add some minor details.
 
-2025/06/21 It's available in 14.4. Add some misc and deitals.
+2025/06/21 It's available in 14.5. Add some misc and deitals.
 
 ---
 
