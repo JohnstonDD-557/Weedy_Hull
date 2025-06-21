@@ -1,0 +1,37 @@
+<holo.mfm>
+	<fx>	shaders/std_effects/holographic.fx	</fx>
+	<property>	glowStrength
+		<Float>	0.70000	</Float>
+	</property>	
+	<property>	waveSpeedY
+		<Float>	0.1000	</Float>
+	</property>
+	<property>	waveSpeedX
+		<Float>	1.1000	</Float>
+	</property>
+	<property>	markColor							
+		<Vector4>	51.0	40.8	20.4	1	</Vector4>
+	</property>	
+	<property>	shakeFactor
+		<Float>	0.0002	</Float>
+	</property>
+	<property>	glitchLineWidth			
+		<Float>	0.0010	</Float>
+	</property>
+	<property>	glitchLinePeriod
+		<Float>	0.3000	</Float>
+	</property>
+	<property>	glitchLineOffset
+		<Float>	0.1000	</Float>
+	</property>
+	<property>	enableRadialOpacity
+		<Bool>	flase	</Bool>	
+	</property>
+    <collisionFlags>	0	</collisionFlags>
+	<property>	imageTexture
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/holo_alpha.dds	</Texture>
+	</property>
+	<property>	maskTexture
+		<Texture>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/holo_tile.dds	</Texture>
+	</property>
+</holo.mfm>
