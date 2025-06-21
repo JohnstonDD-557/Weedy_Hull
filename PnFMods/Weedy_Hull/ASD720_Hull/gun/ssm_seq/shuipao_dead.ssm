@@ -12,7 +12,7 @@
 	<node>
 		<name>	no_action	</name>
 		<type>	sequence	</type>
-		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao.seq	</resource>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao_dead.seq	</resource>
 		<isLoop>	true	</isLoop>
 		<loop>	-1 </loop>
 		<transition>
@@ -41,7 +41,7 @@
 	<node>
 		<name>	Light	</name>
 		<type>	sequence	</type>
-		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao.seq	</resource>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/ssm_seq/shuipao_dead.seq	</resource>
 		<isLoop>	true	</isLoop>
 		<loop>	-1 </loop>
 		<transition>

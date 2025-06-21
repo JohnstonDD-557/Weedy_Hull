@@ -1,4 +1,4 @@
-<shuipao.seq>
+<shuipao_dead.seq>
 	<duration>	30.000	</duration>
 	<sequenceObject>
 		<name>	Root	</name>
@@ -81,13 +81,13 @@
 		</track>
 	</sequenceObject>
 	<sequenceObject>
-		<name>	holo	</name>
+		<name>	holo_dead	</name>
 		<type>	model	</type>
 		<editorOnly>
 			<activated>	true	</activated>
 			<solo>	false	</solo>
 		</editorOnly>
-		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/holo.model	</resource>
+		<resource>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/holo_dead.model	</resource>
 		<track>
 			<name>	position	</name>
 			<type>	vector3	</type>
@@ -121,15 +121,6 @@
 				<tangentMode>	0	</tangentMode>
 			</frame>
 		</track>
-		<track>
-			<name>	attach	</name>
-			<type>	attach	</type>
-			<frame>
-				<startTime>	0.0000	</startTime>
-				<duration>	30.0000	</duration>
-				<value>	Root|Rotate_Y_BlendBone	</value>
-			</frame>
-		</track>
 		<track>			
 			<name>	visibility	</name>	
 			<type>	bool	</type>
@@ -140,4 +131,4 @@
 		</track>
 	</sequenceObject>
     <events />
-</shuipao.seq>
+</shuipao_dead.seq>
