@@ -1,6 +1,10 @@
 <ASD306_Hull_1970_MidFront.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_MidFront.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_MidFront.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_MidFront_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
 	<metaData>	Wargaming.net	</metaData>
 </ASD306_Hull_1970_MidFront.model>

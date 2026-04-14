@@ -1,6 +1,7 @@
 <holo.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/holo.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </holo.model>

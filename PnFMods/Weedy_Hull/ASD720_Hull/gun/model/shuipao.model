@@ -1,6 +1,7 @@
 <shuipao.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/shuipao.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </shuipao.model>

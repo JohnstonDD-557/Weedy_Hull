@@ -3,9 +3,9 @@
 		<node>
 			<identifier>Scene Root</identifier>
 			<transform>
-				<row0>-1.000000 0.000000 0.000000</row0>
-				<row1>0.000000 -1.000000 0.000000</row1>
-				<row2>0.000000 0.000000 -1.000000</row2>
+				<row0>1.000000 0.000000 0.000000</row0>
+				<row1>0.000000 1.000000 0.000000</row1>
+				<row2>0.000000 0.000000 1.000000</row2>
 				<row3>0.000000 0.020000 0.000000</row3>
 			</transform>
 			<node>
@@ -140,8 +140,7 @@
 			<name>TurretShape</name>
 			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
 			<nodes>
-				<node>	Rotate_Y_BlendBone	</node>
-				<node>	Rotate_X_BlendBone	</node>
+				<node>	Turret	</node>
 			</nodes>
 			<material>
 				<identifier>TL2_SHIPMAT_PBS_Gun</identifier>

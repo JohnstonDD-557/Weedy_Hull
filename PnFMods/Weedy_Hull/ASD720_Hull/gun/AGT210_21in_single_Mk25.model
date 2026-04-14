@@ -1,6 +1,7 @@
 <AGT210_21in_single_Mk25.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/gun/model/yedanpao.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </AGT210_21in_single_Mk25.model>

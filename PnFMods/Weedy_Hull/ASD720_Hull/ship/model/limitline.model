@@ -1,6 +1,7 @@
 <limitline.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/ship/model/limitline.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </limitline.model>

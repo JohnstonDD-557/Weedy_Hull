@@ -1,6 +1,7 @@
 <propeller.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/ship/model/propeller.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </propeller.model>

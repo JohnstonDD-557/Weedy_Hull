@@ -1,6 +1,9 @@
 <ASD306_Hull_1970_Bow.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_Bow.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_Bow_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
 	<metaData>	Wargaming.net	</metaData>
 </ASD306_Hull_1970_Bow.model>

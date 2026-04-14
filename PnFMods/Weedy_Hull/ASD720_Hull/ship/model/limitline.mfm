@@ -22,7 +22,7 @@
 		<Float>	0.1000	</Float>
 	</property>
 	<property>	enableRadialOpacity
-		<Bool>	flase	</Bool>	
+		<Bool>	false	</Bool>	
 	</property>
     <collisionFlags>	0	</collisionFlags>
 	<property>	imageTexture

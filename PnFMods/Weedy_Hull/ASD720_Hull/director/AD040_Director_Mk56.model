@@ -1,6 +1,7 @@
 <AD040_Director_Mk56.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/director/AD040_Director_Mk56.visual	</visual>
-	<animations />
-	<dyes />
+	<animations/>
+	<dyes/>
+	<skeletonExtenders/>
 	<metaData>	Wargaming.net	</metaData>
 </AD040_Director_Mk56.model>

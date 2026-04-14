@@ -1,8 +1,11 @@
 <ASD306_Hull_1970_Stern.model>
 	<visual>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_Stern.visual	</visual>
-	<animations>         
-        <animation> PnFMods/Weedy_Hull/ASD720_Hull/ship/ssm_seq/propeller.ssm  </animation>
-    </animations>
-	<dyes />
+	<animations>
+		<animation> PnFMods/Weedy_Hull/ASD720_Hull/ship/ssm_seq/propeller.ssm  </animation>
+	</animations>
+	<dyes/>
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/Weedy_Hull/ASD720_Hull/ship/ASD306_Hull_1970_Stern_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
 	<metaData>	Wargaming.net	</metaData>
 </ASD306_Hull_1970_Stern.model>

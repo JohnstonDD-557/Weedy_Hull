@@ -13,11 +13,11 @@
 			<type>	bool	</type>
 			<frame>
 				<startTime>	0.0000	</startTime>
-				<value>	flase	</value>
+				<value>	false	</value>
 			</frame>
 			<frame>
 				<startTime>	30.0000	</startTime>
-				<value>	flase	</value>
+				<value>	false	</value>
 			</frame>
 		</track>
 	</sequenceObject>
